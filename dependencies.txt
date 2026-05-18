@@ -1,0 +1,15 @@
+transformers 
+sentence-transformers
+faiss-cpu
+scikit-image
+torchvision
+langchain-text-splitters
+pymupdf
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+numpy==1.26.4
+fugashi 
+unidic-lite 
+rank-bm25
+opencv-python==4.6.0.66 
+opencv-contrib-python==4.6.0.66
