@@ -13,3 +13,9 @@ unidic-lite
 rank-bm25
 opencv-python==4.6.0.66 
 opencv-contrib-python==4.6.0.66
+langchain
+langchain-openai
+langchain-chroma
+langchain-community 
+langchain-text-splitters 
+pypdf
